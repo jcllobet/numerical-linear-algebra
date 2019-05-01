@@ -2,20 +2,15 @@
 
 This course is focused on the question: **How do we do matrix computations with acceptable speed and acceptable accuracy?**
 
-This course was taught in the [University of San Francisco's Masters of Science in Analytics](https://www.usfca.edu/arts-sciences/graduate-programs/analytics) program, summer 2017 (for graduate students studying to become data scientists).  The course is taught in Python with Jupyter Notebooks, using libraries such as Scikit-Learn and Numpy for most lessons, as well as Numba (a library that compiles Python to C for faster performance) and PyTorch (an alternative to Numpy for the GPU) in a few lessons.
+The course is an adaptation from fast.ai **Computational Linear Algebra for Coders** and has been compressed to fit the structure of a 5 hour lecture. 
 
-Accompanying the notebooks is a [playlist of lecture videos, available on YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY).  If you are ever confused by a lecture or it goes too quickly, check out the beginning of the next video, where I review concepts from the previous lecture, often explaining things from a new perspective or with different illustrations, and answer questions.
+The course is taught in Python with Jupyter Notebooks, using libraries such as Scikit-Learn and Numpy for most lessons, as well as Numba (a library that compiles Python to C for faster performance) and PyTorch (an alternative to Numpy for the GPU) in a few lessons.
 
-## Getting Help
-You can ask questions or share your thoughts and resources using the [**Computational Linear Algebra** category on our fast.ai discussion forums](http://forums.fast.ai/c/lin-alg).
+Accompanying the notebooks is a [playlist of lecture videos, available on YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY).  If you are ever confused by a lecture or it goes too quickly, check out the beginning of the next video, where there is a review concepts from the previous lecture.
 
 ## Table of Contents
 The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service.  Topics Covered:
-### [0. Course Logistics](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb) ([Video 1](https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
-  - [My background](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Intro)
-  - [Teaching Approach](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Teaching)
-  - [Importance of Technical Writing](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Writing-Assignment)
-  - [List of Excellent Technical Blogs](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Excellent-Technical-Blogs)
+### [0. Course Resources]
   - [Linear Algebra Review Resources](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra)
   
 
